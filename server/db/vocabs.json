@@ -1,0 +1,53 @@
+[
+  {
+    "english": "house",
+    "german": "Haus",
+    "spanish": "casa"
+    
+  },
+  {
+    "english": "apple",
+    "german": "Apfel",
+    "spanish": "manzana"
+  },
+  {
+    "english": "book",
+    "german": "Buch",
+    "spanish": "libro"
+  },
+  {
+    "english": "car",
+    "german": "Auto",
+    "spanish": "coche"
+  },
+  {
+    "english": "dog",
+    "german": "Hund",
+    "spanish": "perro"
+  },
+  {
+    "english": "water",
+    "german": "Wasser",
+    "spanish": "agua"
+  },
+  {
+    "english": "sun",
+    "german": "Sonne",
+    "spanish": "sol"
+  },
+  {
+    "english": "tree",
+    "german": "Baum",
+    "spanish": "árbol"
+  },
+  {
+    "english": "flower",
+    "german": "Blume",
+    "spanish": "flor"
+  },
+  {
+    "english": "sky",
+    "german": "Himmel",
+    "spanish": "cielo"
+  }
+]
